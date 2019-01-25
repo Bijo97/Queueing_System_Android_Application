@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QUEUE</string>
+    <string name="prompt">Choose time</string>
+    <string-array name="arrays">
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+    </string-array>
+</resources>
